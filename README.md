@@ -2,7 +2,7 @@
 ## 作業1
 * [我的部落格](https://github.com/s111410549-cloud/program/blob/main/index.html)
 * [使用gemini]()
-*
+* 
 
 ## 作業2
 * 
@@ -11,7 +11,7 @@
 ## 作業3
 * 
 * [hello js](https://github.com/s111410549-cloud/program/blob/main/hello.js)
-無使用ai
+* 無使用ai
 ## 作業4
 *
 * [ 10 個 javascript 程式練習](https://github.com/s111410549-cloud/js-homework-04)
@@ -30,5 +30,9 @@
 ## 作業7
 *
 *
-*[十題練習](https://github.com/s111410549-cloud/program/tree/main/sss.js)
+* [十題練習](https://github.com/s111410549-cloud/program/tree/main/sss.js)
+## 期中作業
+* [Github網站](https://github.com/s111410549-cloud/genshin-food-guide)
+* [網頁網址](https://s111410549-cloud.github.io/genshin-food-guide/)
+* [使用gemini做的](https://gemini.google.com/app/7546b1511877e1f0?hl=zh-TW)
 
