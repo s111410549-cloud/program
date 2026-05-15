@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>我的部落格</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>我的部落格</h1>
+            <p class="subtitle">分享想法與故事</p>
+        </header>
+
+        <main>
+            <section class="post-form">
+                <h2>發布新文章</h2>
+                <form id="postForm">
+                    <input type="text" id="titleInput" placeholder="標題" required>
+                    <textarea id="contentInput" placeholder="寫下你的想法..." required></textarea>
+                    <button type="submit">發布</button>
+                </form>
+            </section>
+
+            <section class="posts">
+                <h2>文章列表</h2>
+                <div id="postsContainer"></div>
+            </section>
+        </main>
+
+        <footer>
+            <p>© 2026 我的部落格</p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
