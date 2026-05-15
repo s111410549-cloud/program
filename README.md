@@ -35,3 +35,4 @@
 * [網頁網址](https://s111410549-cloud.github.io/genshin-food-guide/)
 * [使用gemini做的](https://gemini.google.com/app/7546b1511877e1f0?hl=zh-TW)
 
+### 除了作業3沒有使用ai其餘都有使用，沒有參考別人程式
