@@ -1,7 +1,7 @@
 # 期末作業彙整
 ## 作業1
-*[我的部落格](https://github.com/s111410549-cloud/program/blob/main/index.html)
-*[使用gemini]()
+* [我的部落格](https://github.com/s111410549-cloud/program/blob/main/index.html)
+* [使用gemini]()
 *
 
 ## 作業2
