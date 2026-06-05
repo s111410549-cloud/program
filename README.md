@@ -21,6 +21,7 @@
 * 使用gemini產生練習題與答案(全部)
 ## 作業5
 * [網站程式碼](https://github.com/s111410549-cloud/program/tree/main/5class)
+* [網站網址](https://s111410549-cloud.github.io/program/)
 * 使用opencode
 
 ## 作業6
