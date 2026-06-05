@@ -5,6 +5,7 @@
 * [使用gemini](https://gemini.google.com/app/2b915234601c0aaf?hl=zh-TW)
 * [網址](https://s111410549-cloud.github.io/myhtmlwebhomework1/)
 * 使用gemini產生網頁程式碼(程式碼含美化功能)
+* 網頁採用賽博澎克風格進行展示
 ## 作業2
 * 表單
 * [github程式碼](https://github.com/s111410549-cloud/homework02)
@@ -22,7 +23,7 @@
 ## 作業5
 * [網站程式碼](https://github.com/s111410549-cloud/program/tree/main/5class)
 * [網站網址](https://s111410549-cloud.github.io/program/)
-* 使用opencode
+* 使用opencode，網站毫無特別
 
 ## 作業6
 * [JavaScript 函數與參數的練習解答](https://github.com/s111410549-cloud/program/tree/main/4.17.js)
