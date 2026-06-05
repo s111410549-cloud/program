@@ -4,21 +4,21 @@
 * [GITHUB](https://github.com/s111410549-cloud/myhtmlwebhomework1)
 * [使用gemini](https://gemini.google.com/app/2b915234601c0aaf?hl=zh-TW)
 * [網址](https://s111410549-cloud.github.io/myhtmlwebhomework1/)
-* 使用gemini產生網頁程式碼
+* 使用gemini產生網頁程式碼(程式碼含美化功能)
 ## 作業2
 * 表單
 * [github程式碼](https://github.com/s111410549-cloud/homework02)
 * [和gemini對話紀錄](https://gemini.google.com/app/11f8c07eba6fd743?utm_source=app_launcher&utm_medium=owned&utm_campaign=base_all)
 * [網址](https://s111410549-cloud.github.io/homework02/)
-* 使用gemini產生表單程式碼
+* 使用gemini產生表單程式碼(全部)
 ## 作業3
 * hello.js作業
 * [hello js程式碼](https://github.com/s111410549-cloud/program/blob/main/hello.js)
-* 無使用ai
+* 無使用ai(原創)
 ## 作業4
 * [ 10 個 javascript 程式練習](https://github.com/s111410549-cloud/js-homework-04)
 * [使用gemini](https://gemini.google.com/app/ec274b149c1954f8?hl=zh-TW)
-* 使用gemini產生練習題與答案
+* 使用gemini產生練習題與答案(全部)
 ## 作業5
 * [網站程式碼](https://github.com/s111410549-cloud/program/tree/main/5class)
 * 使用opencode
@@ -36,5 +36,5 @@
 * [網頁網址](https://s111410549-cloud.github.io/genshin-food-guide/)
 * [使用gemini做的](https://gemini.google.com/app/7546b1511877e1f0?hl=zh-TW)
 * 使用gemini進行網頁美化(傾斜角度、收放、滑鼠圖案美化)，利用firebase資料庫讓網頁重新整理後仍有留言。
-
+### 心得:在這堂課我學到看懂如何寫html、js之類的程式，用opencode產生程式碼，然後跟我喜歡的東西做結合，去美化頁面去設計，或是增加功能，讓我受益匪淺。
 ### 除了作業3hello.js沒有使用ai其餘都有使用，沒有參考別人程式
